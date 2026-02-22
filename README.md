@@ -1,5 +1,3 @@
-# TotheMoon
-Travel to the Moon maths game
 <!DOCTYPE html>
 <html lang="en">
 <head>
